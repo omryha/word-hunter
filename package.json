@@ -1,5 +1,9 @@
 {
   "name": "word-hunt",
+  "author": {
+    "name": "Omry Hazut",
+    "email": "omry.hazut@mail.huji.ac.il"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
